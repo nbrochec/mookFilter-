@@ -1,4 +1,4 @@
-# mookFilter-
+# mookFilter~
 A digital approximation of the Antti's Moog Filter implemented in a Max external object.  
 Original code from ed.luosfosruoivas@naitsirhC and [musicdsp.org](http://musicdsp.org) community.
 
