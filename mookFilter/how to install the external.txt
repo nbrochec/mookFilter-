@@ -1,0 +1,4 @@
+INSTALLATION:
+
+- If Max is running, close it.
+- Drag and drop the mookFilter~ folder in your Packages folder.
