@@ -258,7 +258,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 205.0, 8.0, 272.0, 47.0 ],
-					"text" : "A digital approximation of the iconic Antti's Moog Filter implemented in a Max external object by Nicolas Brochec, https://nicolasbrochec.com"
+					"text" : "A digital approximation of the Antti's Moog Filter implemented in a Max external object by Nicolas Brochec, https://nicolasbrochec.com"
 				}
 
 			}
